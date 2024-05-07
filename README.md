@@ -1,8 +1,8 @@
-# **PEMOGRAMAAN Mobile**
+# **Pemograman Mobile**
 
-**Nama :** _Dean Adriansyah Asy'ari_
+**Nama :** _Adrian Fadhali Wiratama_
 
-**NIM :** _312110286_
+**NIM :** _312110329_
 
 **Kelas :** _TI.21.A2_
 
@@ -18,8 +18,7 @@ Flutter adalah sebuah kerangka kerja (framework) open-source yang dikembangkan o
 
 ## soal UAS
 
-- Buatlah Tampilan Flutter dengan API 
-- Link Api yg diberikan [![Link API](https://img.shields.io/badge/Link%20-%20API%20-%20aqua)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
+- Buatlah Tampilan Flutter dengan RestfulAPI 
 - API yang digunakan [![Link API](https://img.shields.io/badge/Link%20-%20API%20-%20green)](https://doa-doa-api-ahmadramadhan.fly.dev/api)
 
 ## Tools
@@ -37,9 +36,6 @@ Flutter adalah sebuah kerangka kerja (framework) open-source yang dikembangkan o
 ![gambar](README_img/hasil2.png)
 
 ---
-
-# <P align="center"> THANK YOU SO MUCH FOR YOUR ATTENTION!! SEE YOU SOON!!
-
 
 
 
