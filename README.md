@@ -25,7 +25,6 @@ Flutter adalah sebuah kerangka kerja (framework) open-source yang dikembangkan o
 
 - Flutter : [![nama](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)](https://docs.flutter.dev/get-started/install?gclid=CjwKCAjw2K6lBhBXEiwA5RjtCQdRQnJdOx2Y0I81vRVMaqr79GJU5C8uNKfHLGUEoroASVwFWtLwTRoC0NEQAvD_BwE&gclsrc=aw.ds)
 - Visual Studio Code : [![nama](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/download)
-- Github : [![nama](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/DeanAdriansyah)
 
 # <p align="center">Hasil Screenshot Flutter</p>
 
