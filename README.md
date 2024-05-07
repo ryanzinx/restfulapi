@@ -16,7 +16,7 @@
 Flutter adalah sebuah kerangka kerja (framework) open-source yang dikembangkan oleh Google untuk membangun antarmuka pengguna (UI) yang konsisten, indah, dan responsif di berbagai platform seperti Android, iOS, web, dan desktop. Dengan menggunakan Flutter, seorang pengembang dapat membuat aplikasi yang memiliki performa tinggi dan tampilan menarik dengan cepat.
 
 
-## soal UAS
+## soal UTS
 
 - Buatlah Tampilan Flutter dengan RestfulAPI 
 - API yang digunakan [![Link API](https://img.shields.io/badge/Link%20-%20API%20-%20green)](https://doa-doa-api-ahmadramadhan.fly.dev/api)
